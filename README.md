@@ -10,7 +10,7 @@ Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics,
 
 (this paper is included in this zip file)
 
-NOTE: If you have results to report on these corpora, please send email to cristian@cs.cornell.edu or llee@cs.cornell.edu so we can add you to our list of people using this data.  Thanks!
+NOTE: If you have results to report on these corpora, please send email to kellyjames@beardedyoga.co so we can add you to our list of people using this data.  Thanks!
 
 
 Contents of this README:
